@@ -11,7 +11,7 @@ While my main focus is on AI/ML, I'm also personally fascinated by the intersect
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/kaytelex" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/adhiraj.cs/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
