@@ -6,6 +6,14 @@ My primary goal is to build a career in research, and I am actively planning to 
 
 While my main focus is on AI/ML, I'm also personally fascinated by the intersection of technology and creativity, particularly in areas like AI-assisted design.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhi-raj/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/YOUR-TWITTER-USERNAME" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
 ---
 
 ### 🔧 My Tech Stack & Skills
