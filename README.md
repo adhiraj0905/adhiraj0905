@@ -80,15 +80,15 @@ Here are a few of the projects I've been working on:
   <summary>Click to expand</summary>
   <br>
   
-**1. `dynamic-pricing-sys`**
-* A data-driven system to predict and optimize ride-sharing prices based on factors like demand, weather, and time of day.
-* **Tech:** Python, Scikit-learn, Pandas, FastAPI, Streamlit, Jupyter Notebook.
-* **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
-
-**2. `Plato-GPT`**
+**1. `Plato-GPT`**
 * A decoder-only Transformer model trained from scratch on the philosophical works of Plato. This project implements a Generative Pre-trained Transformer (GPT) using PyTorch and CUDA, capable of generating original philosophical text in the style of the ancient Greek philosopher. 
 * Optimized hyperparameters to achieve a cross-entropy loss of 1.30 on the validation set after 5,000 training iterations.
 * **[View Repository](https://github.com/adhiraj0905/gpt-from-scratch)**
+
+**2. `dynamic-pricing-sys`**
+* A data-driven system to predict and optimize ride-sharing prices based on factors like demand, weather, and time of day.
+* **Tech:** Python, Scikit-learn, Pandas, FastAPI, Streamlit, Jupyter Notebook.
+* **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
 
 **3. `customer-churn`**
 * An interactive Streamlit dashboard that predicts customer churn probability using a trained XGBoost model.
