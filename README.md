@@ -85,10 +85,10 @@ Here are a few of the projects I've been working on:
 * **Tech:** Python, Scikit-learn, Pandas, FastAPI, Streamlit, Jupyter Notebook.
 * **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
 
-**2. `tubechat`**
-* A full-stack web app that allows you to have a conversation with any YouTube video. It fetches the transcript and uses the Google Gemini API to answer questions.
-* **Tech:** React, Node.js, Express.js, Google Gemini API.
-* **[View Repository](https://github.com/adhiraj0905/tubechat)**
+**2. `Plato-GPT`**
+* A decoder-only Transformer model trained from scratch on the philosophical works of Plato. This project implements a Generative Pre-trained Transformer (GPT) using PyTorch and CUDA, capable of generating original philosophical text in the style of the ancient Greek philosopher. 
+* Optimized hyperparameters to achieve a cross-entropy loss of 1.30 on the validation set after 5,000 training iterations.
+* **[View Repository](https://github.com/adhiraj0905/gpt-from-scratch)**
 
 **3. `customer-churn`**
 * An interactive Streamlit dashboard that predicts customer churn probability using a trained XGBoost model.
