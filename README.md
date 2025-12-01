@@ -85,15 +85,14 @@ Here are a few of the projects I've been working on:
 * Optimized hyperparameters to achieve a cross-entropy loss of 1.30 on the validation set after 5,000 training iterations.
 * **[View Repository](https://github.com/adhiraj0905/gpt-from-scratch)**
 
-**2. `dynamic-pricing-sys`**
-* A data-driven system to predict and optimize ride-sharing prices based on factors like demand, weather, and time of day.
-* **Tech:** Python, Scikit-learn, Pandas, FastAPI, Streamlit, Jupyter Notebook.
-* **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
-
-**3. `customer-churn`**
-* An interactive Streamlit dashboard that predicts customer churn probability using a trained XGBoost model.
+**2. `setlife-ai`**
+* A Multi-Agent System that orchestrates three specialized LLMs to generate personalized university lists, gap analyses, and execution roadmaps for high school students
 * **Tech:** Python, Streamlit, XGBoost, Scikit-learn, Pandas.
 * **[View Repository](https://github.com/adhiraj0905/customer-churn)**
+
+**3. `dynamic-pricing-sys`**
+* A data-driven system to predict and optimize ride-sharing prices based on factors like demand, weather, and time of day.
+* **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
 
 **4. `artisan-swipe`**
 * A Flutter-based mobile app (inspired by Tinder) for discovering and saving artisan products. It uses Firebase for the backend.
