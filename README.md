@@ -73,34 +73,8 @@ While my main focus is on AI/ML, I'm also personally fascinated by the intersect
 
 ---
 
-### 📂 My Projects
 
-Here are a few of the projects I've been working on:
-<details>
-  <summary>Click to expand</summary>
-  <br>
-  
-**1. `setlife-ai`**
-* A Multi-Agent System that orchestrates three specialized LLMs to generate personalized university lists, gap analyses, and execution roadmaps for high school students
-* **Tech:** Python, Streamlit, XGBoost, Scikit-learn, Pandas.
-* **[View Repository](https://github.com/adhiraj0905/customer-churn)**
 
-**2. `Plato-GPT`**
-* A decoder-only Transformer model trained from scratch on the philosophical works of Plato. This project implements a Generative Pre-trained Transformer (GPT) using PyTorch and CUDA, capable of generating original philosophical text in the style of the ancient Greek philosopher. 
-* Optimized hyperparameters to achieve a cross-entropy loss of 1.30 on the validation set after 5,000 training iterations.
-* **[View Repository](https://github.com/adhiraj0905/gpt-from-scratch)**
-
-**3. `dynamic-pricing-sys`**
-* A data-driven system to predict and optimize ride-sharing prices based on factors like demand, weather, and time of day.
-* **[View Repository](https://github.com/adhiraj0905/dynamic-pricing-sys)**
-
-**4. `artisan-swipe`**
-* A Flutter-based mobile app (inspired by Tinder) for discovering and saving artisan products. It uses Firebase for the backend.
-* **Tech:** Flutter, Dart, Firebase (Cloud Firestore), Provider.
-* **[View Repository](https://github.com/adhiraj0905/artisan-swipe)**
-</details>
-
----
 
 
 ### 🌱 My Interests
