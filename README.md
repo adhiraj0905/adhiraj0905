@@ -1,4 +1,4 @@
-# Hey there! 👋
+# ey there! 👋
 
 I'm a third-year Computer Science student specializing in **Artificial Intelligence and Machine Learning**.
 
